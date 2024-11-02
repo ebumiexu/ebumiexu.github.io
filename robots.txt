@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebumiexu.github.io/AtX/sitemap_index.txt
+Sitemap: https://ebumiexu.github.io/QZG/sitemap_index.txt
+Sitemap: https://ebumiexu.github.io/RkN/sitemap_index.txt
+Sitemap: https://ebumiexu.github.io/vDG/sitemap_index.txt
